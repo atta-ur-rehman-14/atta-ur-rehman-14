@@ -121,19 +121,30 @@ I enjoy turning ideas into working projects, learning through hands-on developme
 ```text
 🐍 Python
       ↓
-📊 Data Analysis
+🔢 NumPy
       ↓
-📈 Statistics & SQL
+🐼 Pandas
+      ↓
+🧹 Data Cleaning & Preprocessing
+      ↓
+🗄️ SQL & Databases
+      ↓
+📊 Statistics
+      ↓
+📈 Data Visualization
+      ↓
+📊 Power BI
+      ↓
+📊 Tableau
+      ↓
+💼 Real-World Data Analysis Projects
       ↓
 🤖 Machine Learning
       ↓
 🧠 Artificial Intelligence
       ↓
-⚡ Vibe Engineering
-      ↓
-🚀 Real-World AI & Data Projects
+⚡ AI + Data Science
 ```
-
 </div>
 
 ---
