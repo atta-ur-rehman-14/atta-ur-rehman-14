@@ -30,7 +30,7 @@
 
 <img align="right" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding"/>
 
-I'm a **BS Computer Science student** passionate about building practical software and exploring the world of **Data Analytics, Artificial Intelligence, and Python development**.
+I'm a **BS Computer Science student** passionate about building **Data Analytics** and exploring the world of **Vibe Engineering,Artificial Intelligence, and Python development**.
 
 I enjoy turning ideas into working projects, learning through hands-on development, and continuously improving my problem-solving skills.
 
