@@ -19,7 +19,7 @@
 </p>
 
 <a href="https://github.com/atta-ur-rehman-14">
-  <img src="https://view-counter.tobyhagan.com/?user=atta-ur-rehman-14" alt="Profile Views"/>
+ <img src="https://komarev.com/ghpvc/?username=atta-ur-rehman-14&label=PROFILE+VIEWS&style=for-the-badge&color=blue" alt="Profile Views"/>
 </a>
 
 </div>
